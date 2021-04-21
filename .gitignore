@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+.DS_Store
+/.idea/
+.vscode
+/venv
+/cookiecutter.json
+/llamasavers
+/llamasaversllamasave
