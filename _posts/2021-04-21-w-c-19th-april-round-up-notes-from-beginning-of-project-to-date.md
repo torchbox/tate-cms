@@ -1,6 +1,6 @@
 ---
 layout: post
-title: w/c 19th April - round-up notes from beginning of project to date
+title: Sprint Notes 1: Inception & Discovery (the first 6 weeks - w/c 1 March to w/c 19th April)
 ---
 
 In early March 2021 we kicked off a really exciting project to replace the content management system (CMS) that powers the Tate Galleries signature website, [www.tate.org.uk](https://www.tate.org.uk/). The existing site has been running on the Drupal 7 platform since 2012 so it has had a good innings, but the technology is approaching end-of-life. Moreover the limitations present within the existing CMS add a significant amount of friction to the workflow used by Tate's content editors.
