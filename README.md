@@ -6,7 +6,7 @@ The Tate CMS project’s sprint notes, administered as a [Jekyll](https://jekyll
 
 - `_config.yml` is the Jekyll configuration.
 - `index.md` is the contents of the site’s homepage.
-- `_posts` are listed on the homepage from newest to oldest.
+- Files in `_posts/` are listed on the homepage from newest to oldest.
 
 ## Publishing notes
 
