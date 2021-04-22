@@ -12,4 +12,9 @@ The Tate CMS project’s sprint notes, administered as a [Jekyll](https://jekyll
 
 You can use the [editor on GitHub](https://github.com/torchbox/tate-cms/edit/gh-pages/index.md) to maintain and preview the content of the site in [Markdown](https://guides.github.com/features/mastering-markdown/) files.
 
+When creating a new post,
+
+- The post’s filename needs to start with a date in the YYYY-MM-DD format: https://github.com/torchbox/tate-cms/blob/main/_posts/2021-04-21-ep1-inception-and-discovery.md
+- The post title should be wrapped in quotes, for example: `title: "This week’s sprint"`
+
 The [live site](https://torchbox.github.io/tate-cms/) is automatically updated whenever making changes in GitHub.
