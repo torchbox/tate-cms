@@ -5,7 +5,7 @@ title: "Sprint Notes 1: Inception and Discovery (the first 6 weeks - w/c 1 March
 
 In early March 2021 we kicked off a really exciting project to replace the content management system (CMS) that powers the Tate Galleries signature website, [www.tate.org.uk](https://www.tate.org.uk/). The existing site has been running on the Drupal 7 platform since 2012 so it has had a good innings, but the technology is approaching end-of-life. Moreover the limitations present within the existing CMS add a significant amount of friction to the workflow used by Tate's content editors.
 
-Over the coming months our task is to design and implement a new CMS for Tate in Wagtail, optimise and migrate some 10,000 pages of content, help simplify Tate’s technical architecture, improve editor workflows, and decommission the Drupal site.
+Over the coming months our task is to design and implement a new CMS for Tate in [Wagtail](https://wagtail.io/), optimise and migrate some 10,000 pages of content, help simplify Tate’s technical architecture, improve editor workflows, and decommission the Drupal site.
 
 The project team comprises Tate’s Digital and Content teams; a product team from Torchbox included two members of the Wagtail core team (who lead on the development of the open source CMS); and technical architects from Softwire who led the selection process for Tate, and will be working on hosting infrastructure.
 
