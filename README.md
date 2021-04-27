@@ -7,6 +7,7 @@ The Tate CMS project’s sprint notes, administered as a [Jekyll](https://jekyll
 - `_config.yml` is the Jekyll configuration.
 - `index.md` is the contents of the site’s homepage.
 - Files in `_posts/` are listed on the homepage from newest to oldest.
+- Files in `images/` can be used as images in posts.
 
 ## Publishing notes
 
@@ -18,3 +19,8 @@ When creating a new post,
 - The post title should be wrapped in quotes, for example: `title: "This week’s sprint"`
 
 The [live site](https://torchbox.github.io/tate-cms/) is automatically updated whenever making changes in GitHub.
+
+### Adding images
+
+1. In GitHub, upload the image file in the `images/` folder.
+2. Reference the image with the correct path and file name from your post: `![Image alt text](/tate-cms/images/my-file-name.png)`.
