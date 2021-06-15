@@ -24,3 +24,9 @@ The [live site](https://torchbox.github.io/tate-cms/) is automatically updated w
 
 1. In GitHub, upload the image file in the `images/` folder.
 2. Reference the image with the correct path and file name from your post: `![Image alt text](/tate-cms/images/my-file-name.png)`.
+
+Or with a link over the image:
+
+```markdown
+[![Image alt text](/tate-cms/images/my-file-name.png)](https://www.example.com/)
+```
