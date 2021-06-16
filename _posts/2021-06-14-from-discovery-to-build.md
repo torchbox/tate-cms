@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprint Notes 2: From Discovery to Build"
+title: "Sprint Notes 2: From Discovery to Build (w/c 26th April - w/c 14th June)"
 ---
 
 Blazing through early discovery on content modelling and architecture, we approached the end of discovery focusing on… content modelling and architecture, in more detail. As well as infrastructure, and overall project planning.
