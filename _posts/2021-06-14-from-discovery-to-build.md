@@ -7,7 +7,7 @@ Blazing through early discovery on content modelling and architecture, we approa
 
 ## Architecture update
 
-Even with a monolithic architecture, there still are plenty of integration requirements to look into, such as accessing Tate’s collections data. We decided to go with a Django-friendly approach here, with collections data replicated directly within the application. This makes a lot of sense since the Tate API and website are combined as a single application, which would be the only place needing direct integration with collections databases. It will also make editors’ lives much simpler in the CMS, as they will be able to reference collections data with all of the idioms that are native to Wagtail.
+Even with the monolithic architecture we've adopted (see the first Sprint Notes), there still are plenty of integration requirements to look into, such as accessing Tate’s collections data. We decided to go with a Django-friendly approach here, with collections data replicated directly within the application. This makes a lot of sense since the Tate API and website are combined as a single application, which would be the only place needing direct integration with collections databases. It will also make editors’ lives much simpler in the CMS, as they will be able to reference collections data with all of the idioms that are native to Wagtail.
 
 Even though the integration itself is complicated (there’s no avoiding that), for developers it’ll also be much easier to combine collections data with CMS data. It’s as simple as using [Django QuerySets](https://docs.djangoproject.com/en/3.2/ref/models/querysets/)! See for yourself – querying all of Tate’s artwork accession numbers, in a Django-friendly one-liner:
 
